@@ -49,7 +49,7 @@
   }
 
   updateButtons();
-  setupDots()
+  setupDots();
 
   next.addEventListener('click', () => {
     currentIndex++;
